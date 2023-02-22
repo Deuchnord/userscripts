@@ -3,7 +3,7 @@
 // @description   Merge the issues and PRs tabs of the repositories in a single one
 // @author        Deuchnord
 // @version       1.0.1
-// @namespace     https://deuchnord.fr/userscipt#github.com/merge-prs-issues-tabs
+// @namespace     https://deuchnord.fr/userscipts#github.com/merge-prs-issues-tabs
 // @match         https://github.com/*/*
 // @icon          https://github.githubassets.com/favicons/favicon.svg
 // @license       AGPL-3.0
