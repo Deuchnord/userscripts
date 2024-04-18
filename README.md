@@ -3,6 +3,9 @@
 This repository contains userscripts I have written for my own use.
 They are distributed on [Greasy Fork](https://greasyfork.org/).
 
+- **All sites:**
+    - **[Redirect from mobile](https://greasyfork.org/fr/scripts/492838-redirect-from-mobile):** redirect automatically from the mobile version to the desktop version of websites.
+
 - **github.com:**
     - **[Merge issues and PR tabs](https://greasyfork.org/fr/scripts/460294-merge-issues-and-pr-tabs):** merge the repositories _Issues_ and _Pull requests_ tabs in a single one that contains both open issues and PRs.
 
