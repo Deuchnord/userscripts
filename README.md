@@ -4,6 +4,7 @@ This repository contains userscripts I have written for my own use.
 They are distributed on [Greasy Fork](https://greasyfork.org/).
 
 - **All sites:**
+    - **[Identify development environment](https://greasyfork.org/fr/scripts/527431-identify-development-environment):** Display an alert on your work environment for disambiguation.
     - **[Redirect from mobile](https://greasyfork.org/fr/scripts/492838-redirect-from-mobile):** redirect automatically from the mobile version to the desktop version of websites.
 
 - **github.com:**
